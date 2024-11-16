@@ -1,1 +1,0 @@
-# PYRAMIDS1.C
